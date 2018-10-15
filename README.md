@@ -69,13 +69,13 @@ Configure your firebase and get :
 
 #### Android
 ```
-* Get your Key hash & App ID from (https://developers.facebook.com/quickstarts/?platform=android)
+* Get your Key hash & App ID from [here](https://developers.facebook.com/quickstarts/?platform=android)
 * Place your App ID and your App name at android/app/src/main/res/values/strings.xml
 ```
 
 #### iOS
 ```
-* Get your App ID from (https://developers.facebook.com/quickstarts/?platform=ios)
+* Get your App ID from [here](https://developers.facebook.com/quickstarts/?platform=ios)
 * Replace <string>fb1234567890</string> with your <string>fbApp_ID</string> at ios/PROJECT_NAME/Info.plist
 * Replace the FacebookAppID key's string with your App ID at ios/PROJECT_NAME/Info.plist
 * Replace the FacebookDisplayName key's string with your App name at ios/PROJECT_NAME/Info.plist
